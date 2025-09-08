@@ -14,9 +14,8 @@ Aquí comparto mis proyectos más relevantes en **programación, inteligencia ar
   Ganador de la **Feria InnovaTech**.  
   👉 [Repositorio](https://github.com/ErikRoman05/visionsafe) *(cuando lo subas)*
 
-- **Sistema para la empresa Agua Cruceña** 📦  
-  Aplicación web en PHP, MySQL y JavaScript para gestión de stock.  
-  👉 [Repositorio](https://github.com/ErikRoman05/inventarios)
+- **Sistema para la empresa Agua Cruceña** 
+  👉 [Repositorio](https://github.com/ErikRoman05/Aguacruce-a)
 
 - **Sistema Académico** 🎓  
   Plataforma web para el control de estudiantes y calificaciones.  
