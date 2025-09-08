@@ -14,7 +14,7 @@ Aquí comparto mis proyectos más relevantes en **programación, inteligencia ar
   Ganador de la **Feria InnovaTech**.  
   👉 [Repositorio](https://github.com/ErikRoman05/visionsafe) *(cuando lo subas)*
 
-- **Sistema de Inventarios** 📦  
+- **Sistema para la empresa Agua Cruceña** 📦  
   Aplicación web en PHP, MySQL y JavaScript para gestión de stock.  
   👉 [Repositorio](https://github.com/ErikRoman05/inventarios)
 
@@ -25,8 +25,8 @@ Aquí comparto mis proyectos más relevantes en **programación, inteligencia ar
 ---
 
 ## 🛠️ Tecnologías que uso
-- **Lenguajes:** Python, JavaScript, PHP, SQL  
-- **Herramientas:** XAMPP, Git, GitHub  
+- **Lenguajes:** Python, JavaScript,Js , PHP, SQL ,
+- **Herramientas:** MySql,XAMPP, Git, GitHub,Visual Studio Code,  
 - **Habilidades blandas:** Liderazgo, trabajo en equipo, comunicación  
 
 ---
