@@ -12,7 +12,7 @@ Aquí comparto mis proyectos más relevantes en **programación, inteligencia ar
 - **VisionSafe** 🧠🔒  
   Proyecto de inteligencia artificial para seguridad.  
   Ganador de la **Feria InnovaTech**.  
-  👉 [Repositorio](https://github.com/ErikRoman05/visionsafe) *(cuando lo subas)*
+  👉 [Repositorio](https://github.com/ErikRoman05/VisionSafe) 
 
 - **Sistema para la empresa Agua Cruceña** 
   👉 [Repositorio](https://github.com/ErikRoman05/Aguacruce-a)
